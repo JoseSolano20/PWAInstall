@@ -9,7 +9,8 @@ self.addEventListener('install',(event) =>{
             [
                 '/',
                 'index.html',
-                'app.js'
+                'app.js',
+                '/manifest.json'
             ]
         );
     });
