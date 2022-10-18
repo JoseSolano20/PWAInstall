@@ -1,7 +1,7 @@
 {
     "name": "Notas PWA",
     "short_name": "PWANotas.",
-    "start_url": "/index.html",
+    "start_url": "https://josesolano20.github.io/PWAInstall/",
     "display": "standalone",
     "orientation": "portrait",
     "description": "Mi primer aplicacion como PWA instalable",
