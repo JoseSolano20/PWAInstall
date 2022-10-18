@@ -22,8 +22,7 @@ self.addEventListener('install',(event) =>{
                 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css',
                 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js',
                 'https://dam.cocinafacil.com.mx/wp-content/uploads/2019/12/cena-navidena.jpg'
-            ]
-        )
+            ]);
     });
 
     event.waitUntil(Promise.all[respCache, respCacheInmutable]);
