@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "description": "Mi primer aplicacion como PWA instalable",
     "background_color": "#A4670",
+    "lang":"es_ES",
     "theme_color": "aliceblue",
     "icons": [
         {
